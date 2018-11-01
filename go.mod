@@ -1,4 +1,4 @@
-module github.com/takuyaohashi/heroku-go-json-server-for-cloud-functions
+module github.com/takuyaohashi/gcp-go-json-server-for-hugo
 
 require (
 	github.com/otiai10/opengraph v1.0.0
