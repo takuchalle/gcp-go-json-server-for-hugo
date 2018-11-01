@@ -1,0 +1,5 @@
+# github.com/otiai10/opengraph v1.0.0
+github.com/otiai10/opengraph
+# golang.org/x/net v0.0.0-20181029044818-c44066c5c816
+golang.org/x/net/html
+golang.org/x/net/html/atom

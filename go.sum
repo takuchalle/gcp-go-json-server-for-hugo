@@ -1,0 +1,4 @@
+github.com/otiai10/opengraph v1.0.0 h1:Fal0Qx7mBWds0z2cxMMPfZh2Ld3mW61m5BBUTybajD0=
+github.com/otiai10/opengraph v1.0.0/go.mod h1:X/1XWvVWxb+8migvztlPAclxuxVCIRuLhf0xLnngZ78=
+golang.org/x/net v0.0.0-20181029044818-c44066c5c816 h1:mVFkLpejdFLXVUv9E42f3XJVfMdqd0IVLVIVLjZWn5o=
+golang.org/x/net v0.0.0-20181029044818-c44066c5c816/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
